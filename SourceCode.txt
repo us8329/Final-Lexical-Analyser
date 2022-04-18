@@ -1,0 +1,12 @@
+#include <iostream>
+#define LIMIT 5
+using namespace std ;
+int main(){
+    //checking comments
+    int A , B ;
+    cin >> A >> B;
+    int s = 0;
+    s = A + B ;
+    cout << s ;
+    return 0;
+}
